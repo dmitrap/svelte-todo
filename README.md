@@ -1,7 +1,8 @@
-*Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+This is just a demo of what svelte can do (in form of to-do) :)
+I think it is a pretty neat little framework and am looking forward to it's further development.
+Excerpt from svelte docs (about installation) below:
 
 ---
-
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
